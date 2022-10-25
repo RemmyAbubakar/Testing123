@@ -1,1 +1,2 @@
-console.log(remmy)
+console.log(remmy);
+console.log(main);
